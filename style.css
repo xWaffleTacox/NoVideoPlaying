@@ -32,15 +32,15 @@
 	}
 	
 	.cereal-box-logo {
-		width: 1359px;
-		height: 284px;
+		width: 606px;
+		height: 126px;
 		background-image: url(logo.png);
 		background-repeat: no-repeat;
 		Background-position: center;
 	}
 	
 	.info {
-		font-size: 50pt;
+		font-size: 10pt;
 		padding-bottom: 20px;
 		text-shadow: 0px 2px 1px rgba(0,0,0,1), 1px 1px 1px rgba(0,0,0,0.2), -1px 1px 1px rgba(0,0,0,0.2);
 		text-align: center;
